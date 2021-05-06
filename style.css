@@ -432,3 +432,17 @@ body {
 .description{
   padding: 10rem;
 }
+
+.t-card-image{
+  width: 100%;
+}
+
+.t-card{
+  padding: 2rem;
+  background-color: #fff; 
+  border-radius: 1rem;
+}
+
+.t-image-body{
+  width: 100%;
+}
