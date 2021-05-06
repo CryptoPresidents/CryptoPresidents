@@ -446,3 +446,7 @@ body {
 .t-image-body{
   width: 100%;
 }
+
+.row{
+  padding-top: 2rem;
+}
