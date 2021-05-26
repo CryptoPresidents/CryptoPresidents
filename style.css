@@ -450,3 +450,7 @@ body {
 .row{
   padding-top: 2rem;
 }
+
+.subtitle{
+  color: #777;
+}
